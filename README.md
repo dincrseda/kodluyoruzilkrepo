@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-[Kodluyoruz]() Eğitimi kapsamında açtığım ilk repo
+[Kodluyoruz]() Eğitim kapsamında açtığım ilk repo 
 
 ![Resim1](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
